@@ -12,7 +12,7 @@ Participating in this [challenge](https://share.streamlit.io/streamlit/30days) b
 | Day 3  | [Tweet](https://twitter.com/rhnfzl/status/1510992645228843023?s=20&t=TzoaH7cRUe5YoFMnm2zz6Q) || Day 18 | [Tweet](https://twitter.com/rhnfzl/status/1516144941650612228?s=20&t=BFfEAd5CnQpSJFOj8yl-RQ) |
 | Day 4  | [Tweet](https://twitter.com/rhnfzl/status/1511082372892180486?s=20&t=TzoaH7cRUe5YoFMnm2zz6Q) || Day 19 | [Tweet](https://twitter.com/rhnfzl/status/1516510129914617861?s=20&t=jXnN3WaQHIrg7IIIoWG9BQ) |
 | Day 5  | [Tweet](https://twitter.com/rhnfzl/status/1511412566916055040?s=20&t=TzoaH7cRUe5YoFMnm2zz6Q) || Day 20 | [Tweet](https://twitter.com/rhnfzl/status/1516816279658770445?s=20&t=NzRTdoOe84GHWzf_lt2ekw) |
-| Day 6  | [Tweet](https://twitter.com/rhnfzl/status/1511762970585579523?s=20&t=TzoaH7cRUe5YoFMnm2zz6Q) || Day 21 | [Tweet]() |
+| Day 6  | [Tweet](https://twitter.com/rhnfzl/status/1511762970585579523?s=20&t=TzoaH7cRUe5YoFMnm2zz6Q) || Day 21 | [Tweet](https://twitter.com/rhnfzl/status/1517397891660275712?s=20&t=vN1pdlVmWe5r_mRZyy4pdA) |
 | Day 7  | [Tweet](https://twitter.com/rhnfzl/status/1512129831487557637?s=20&t=TzoaH7cRUe5YoFMnm2zz6Q) |
 | Day 8  | [Tweet](https://twitter.com/rhnfzl/status/1512552077733638144?s=20&t=TzoaH7cRUe5YoFMnm2zz6Q) |
 | Day 9  | [Tweet](https://twitter.com/rhnfzl/status/1513063123103723524?s=20&t=DXe0mRai7etoToD7fYS-3g) |
