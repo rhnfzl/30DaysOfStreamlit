@@ -31,3 +31,4 @@ Participating in this [challenge](https://share.streamlit.io/streamlit/30days) b
 | Day 22 | [Tweet](https://twitter.com/rhnfzl/status/1517778927971979264?s=20&t=hto4bRo2A87BVv8y0ilw-w) |
 | Day 23 | [Tweet](https://twitter.com/rhnfzl/status/1518205384162525184?s=20&t=n3xC5_SHFv77ygVXDTlBpA) |
 | Day 24 | [Tweet](https://twitter.com/rhnfzl/status/1518491090797699072?s=20&t=ygV--0O3-EtlxZR2SqEyBw) |
+| Day 25 | [Tweet](https://twitter.com/rhnfzl/status/1518688507530776578?s=20&t=m5C8soiNsmou8jzmV8-0Sw) |
