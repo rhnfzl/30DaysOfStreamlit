@@ -2,3 +2,4 @@ streamlit
 plotly
 pandas>=1.3.5
 streamlit_pandas_profiling
+streamlit-elements==0.1.*
