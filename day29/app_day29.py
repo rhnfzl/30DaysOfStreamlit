@@ -29,7 +29,7 @@ else:
 
 st.set_page_config(layout=layout, page_title="Zero-Shot Text Classifier", page_icon="🤗")
 
-st.image("logo.png", width=350)
+# st.image("logo.png", width=350)
 
 st.title("Zero-Shot Text Classifier")
 
