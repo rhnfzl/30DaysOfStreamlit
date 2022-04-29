@@ -6,3 +6,7 @@ streamlit_pandas_profiling
 streamlit-elements==0.1.*
 streamlit-shap
 xgboost
+streamlit-option-menu
+requests
+streamlit-tags
+streamlit-aggrid
