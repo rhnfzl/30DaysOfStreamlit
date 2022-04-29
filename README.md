@@ -32,4 +32,4 @@ Participating in this [challenge](https://share.streamlit.io/streamlit/30days) b
 | [Day 26](day26) | How to use API by building the Bored API app | [Tweet](https://twitter.com/rhnfzl/status/1519048967048376321?s=20&t=hcBhnZaMgs9ixgd0Zf3rDw) |
 | [Day 27](day27) | Build a draggable and resizable dashboard with Streamlit Elements | [Tweet](https://twitter.com/rhnfzl/status/1519418963503075332?s=20&t=sTx7K8S1pnWeBScyA6kx8w) |
 | [Day 28](day28) | streamlit-shap | [Tweet](https://twitter.com/rhnfzl/status/1519940638753574912?s=20&t=cN2GX9R5vz_PQ1n5b64R2A) |
-| [Day 29](day29) | Build hugging face classifier | [Tweet]() |
+| [Day 29](day29) | Build hugging face classifier | [Tweet](https://twitter.com/rhnfzl/status/1520159070015131648?s=20&t=rbnkrpkDBPH4Qx2_E1x5pA) |
