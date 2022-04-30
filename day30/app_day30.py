@@ -1,5 +1,4 @@
 import streamlit as st
-from re import search
 
 st.title('🖼️ yt-img-app')
 st.header('YouTube Thumbnail Image Extractor App')
